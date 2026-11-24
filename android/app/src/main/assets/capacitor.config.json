@@ -1,0 +1,8 @@
+{
+	"appId": "com.kineticshapes.app",
+	"appName": "Mô phỏng Hình học Động",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}

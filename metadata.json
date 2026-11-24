@@ -1,0 +1,8 @@
+{
+  "name": "Mô phỏng Hình học Động",
+  "description": "Hộp cát vật lý để mô phỏng trọng lực biến thiên và động lực học va chạm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
